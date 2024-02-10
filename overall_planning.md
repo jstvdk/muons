@@ -1,4 +1,13 @@
-## Plan what here should be:
+## TODO:
+
+- Gather good papers/technical notes on muon physics in the IACT astronomy
+- Build class Muon() that will have just overall physical information about this particle, together with some methods for calculating their main physical parameters.
+- Add methods for interpolating atmosphere
+- Add methods to calculate height of production in the simulations of muons for single CTA telescope
+- Add file with constants (CTA Telescopes parameters, corsika/simtel main parametes, ...)
+
+
+## Plan what code should looks like:
 
 Create class Muon(), with all main muon parameters, constants and physical formulas.
 
